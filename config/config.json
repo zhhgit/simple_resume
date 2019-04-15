@@ -2,7 +2,7 @@
   "list":[
     {
       "title":"自我介绍",
-      "content":["我是张昊，江苏淮安人，2016年硕士毕业于上海交通大学。现在我生活在上海，是一名Web开发工程师，主要做Java后台。"]
+      "content":["我是张昊，江苏淮安人，2016年硕士毕业于上海交通大学。现在我生活在上海，是一名Web开发工程师，熟悉前后台开发。"]
     },
     {
       "title":"教育背景",
@@ -17,14 +17,14 @@
     },
     {
       "title":"技术相关",
-      "content":["<ul><li>编程语言：<b>Java</b>、<b>JavaScript</b></li><li>熟悉<b>Spring/Spring MVC/MyBatis/Hibernate</b>等后台框架。</li><li>曾专职做Web前端开发两年，熟悉<b>jQuery/React/React Native/Vue/Cordova</b>等前端框架。</li></ul>"]
+      "content":["<ul><li>编程语言：<b>Java</b>、<b>JavaScript</b></li><li>熟悉<b>Spring/Spring MVC/MyBatis/Hibernate</b>等后台框架。</li><li>熟悉<b>jQuery/React/React Native/Vue/Cordova</b>等前端框架。</li></ul>"]
 
     },
     {
       "title":"工作经历",
       "content":[
-        "<h3>2018.03--至今</h3><h3>中国银联科技事业部&nbsp&nbsp&nbsp技术开放平台团队&nbsp&nbsp&nbspJava开发工程师</h3><ul><li>技术开放平台</li></ul>",
-        "<h3>2016.04--2018.02</h3><h3>中国银联科技事业部&nbsp&nbsp&nbsp云闪付团队&nbsp&nbsp&nbsp前端开发工程师</h3><ul><li>主要做移动端应用开发：纯H5应用、基于Cordova的Hybrid应用、基于React-Native的应用；</li></ul>",
+        "<h3>2018.03--至今</h3><h3>中国银联科技事业部--技术开放平台团队</h3><ul><li>开放平台API网关</li><li>开放平台站点</li></ul>",
+        "<h3>2016.04--2018.02</h3><h3>中国银联科技事业部--云闪付团队</h3><ul><li>云闪付APP开发：H5应用、基于Cordova的应用、基于React-Native的应用；</li></ul>",
         "<h3>我的项目请参考<a href='http://zhanghao90.cn/my_project_list/prod/dist/index.html'>http://zhanghao90.cn/my_project_list/prod/dist/index.html</a>；</h3>"
       ]
     }
